@@ -31,3 +31,6 @@ class Usuario extends Model {
 
 }
 ```
+
+## Referência
+Base Estrutura MVC curso PHP B7Web
